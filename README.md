@@ -1,5 +1,3 @@
-Here’s a structured README.md file for your project:
-
 # 📝 To-Do List App (with File Handling)
 
 ## 📌 Overview
