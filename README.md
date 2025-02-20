@@ -20,6 +20,7 @@ This is a simple **To-Do List** application written in Python. It allows users t
 ### **1️⃣ Clone the Repository**
 
 git clone (https://github.com/Sandeep3899/Todo_List.git)
+
 cd todo-list-python
 
 2️⃣ Run the Python Script
